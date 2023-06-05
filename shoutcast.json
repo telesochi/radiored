@@ -294,6 +294,19 @@
     "stream" : "https://myradio24.org/ussr",
     "picture" : "https://telesochi.github.io/radiored/logo/radioussr.webp"
   },
+
+
+ {
+    "name" : "Radio80S",
+    "stream" : "http://stream.laut.fm/80s-radio",
+    "picture" : "https://telesochi.github.io/radiored/logo/radio80s.jpg"
+  },
+
+
+
+
+
+
   {
     "name" : "SpaceSynth",
     "stream" : "https://myradio24.org/1987",
