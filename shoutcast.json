@@ -39,6 +39,11 @@
     "stream" : "https://stream.govoritmoskva.ru:8000/gm96.mp3",
     "picture" : "https://telesochi.github.io/radiored/logo/govorit_moskva94_8.png"
   },
+{
+    "name" : "Capital FM 105.3",
+    "stream" : "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
+    "picture" : "https://telesochi.github.io/radiored/logo/capital_fm.jpg"
+  },
   {
     "name" : "Звезда\nПрямой эфир (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/zvezda-32.aac",
