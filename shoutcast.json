@@ -60,6 +60,11 @@
     "picture" : "https://telesochi.github.io/radiored/logo/bfm.webp"
   },
   {
+    "name" : "Кекс FM Rus",
+    "stream" : "http://emg02.hostingradio.ru/keksfm64.aac",
+    "picture" : "https://telesochi.github.io/radiored/logo/keks.webp"
+  },
+  {
     "name" : "RadioRED\nПрямой эфир (128 kbps)",
     "stream" : "https://pub0102.101.ru:8443/stream/personal/aacp/64/1781512",
     "picture" : "https://telesochi.github.io/radiored/logo/radiored.jpg"
