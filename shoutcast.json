@@ -29,6 +29,16 @@
     "stream" : "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
     "picture" : "https://fmplay.ru/img/nashe.webp"
   },
+{
+    "name" : "Москва FM 92.0FM",
+    "stream" : "http://icecast.vgtrk.cdnvideo.ru/moscowfm128",
+    "picture" : "https://telesochi.github.io/radiored/logo/moskva_FM_92_0.png"
+  },
+{
+    "name" : "Говорит Москва 94.8FM",
+    "stream" : "https://stream.govoritmoskva.ru:8000/gm96.mp3",
+    "picture" : "https://telesochi.github.io/radiored/logo/govorit_moskva94_8.png"
+  },
   {
     "name" : "Звезда\nПрямой эфир (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/zvezda-32.aac",
@@ -294,19 +304,11 @@
     "stream" : "https://myradio24.org/ussr",
     "picture" : "https://telesochi.github.io/radiored/logo/radioussr.webp"
   },
-
-
  {
     "name" : "Radio80S",
     "stream" : "http://stream.laut.fm/80s-radio",
     "picture" : "https://telesochi.github.io/radiored/logo/radio80s.jpg"
   },
-
-
-
-
-
-
   {
     "name" : "SpaceSynth",
     "stream" : "https://myradio24.org/1987",
