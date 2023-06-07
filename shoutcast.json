@@ -105,9 +105,9 @@
     "picture" : "https://fmplay.ru/img/sputnik.webp"
   },
   {
-    "name" : "Москва FM",
-    "stream" : "https://icecast-vgtrk.cdnvideo.ru/moscowfm128",
-    "picture" : "https://telesochi.github.io/radiored/logo/moscow-fm.png"
+    "name" : "Радио Романтика",
+    "stream" : "https://ic4.101.ru:8000/s30",
+    "picture" : "https://telesochi.github.io/radiored/logo/radio-romantika.png"
   },
   {
     "name" : "Радио МИР\nПрямой эфир (128 kbps)",
