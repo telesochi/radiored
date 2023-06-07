@@ -355,16 +355,15 @@
     "picture" : "http://somafm.com/logos/512/u80s512.png"
   },
   {
-    "name" : "TEST",
-    "stream" : "https://live.radiospinner.com/80hs-64",
-    "picture" : "http://somafm.com/logos/512/u80s512.png"
+    "name" : "Retro Gold",
+    "stream" : "https://live.radiospinner.com/retrgold-64",
+    "picture" : "https://radiospinner.com/images/stations/6110bc53540e1.jpg"
+  },
+  {
+    "name" : "Ретро Gold",
+    "stream" : "https://live.radiospinner.com/rtrgld-64",
+    "picture" : "https://radiospinner.com/images/stations/6110bc53540e1.jpg"
   }
-
-
-
-
-
-
 
 
 
