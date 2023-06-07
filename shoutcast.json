@@ -164,6 +164,11 @@
     "stream" : "https://s01.radio-tochka.com:4845/radio",
     "picture" : "https://telesochi.github.io/radiored/logo/novaja-volna.png"
   },
+{
+    "name" : "Макс FM\nСочи (128 kbps)",
+    "stream" : "https://maksfm.hostingradio.ru/maksfm128.mp3",
+    "picture" : "https://telesochi.github.io/radiored/logo/maks-fm.png"
+  },
   {
     "name" : "Татар Радиосы",
     "stream" : "https://stream.tatarradio.ru/kazan_128.aac",
