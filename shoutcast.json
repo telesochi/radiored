@@ -353,5 +353,19 @@
     "name" : "SOMA.FM Underground 80S",
     "stream" : "https://ice1.somafm.com/u80s-128-mp3",
     "picture" : "http://somafm.com/logos/512/u80s512.png"
+  },
+  {
+    "name" : "TEST",
+    "stream" : "https://live.radiospinner.com/80hs-64",
+    "picture" : "http://somafm.com/logos/512/u80s512.png"
   }
+
+
+
+
+
+
+
+
+
 ]
