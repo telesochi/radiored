@@ -39,6 +39,14 @@
     "stream" : "https://stream.govoritmoskva.ru:8000/gm96.mp3",
     "picture" : "https://telesochi.github.io/radiored/logo/govorit_moskva94_8.png"
   },
+
+{
+    "name" : "Ultra\n(256 kbps)",
+    "stream" : "http://nashe1.hostingradio.ru:80/ultra-256",
+    "picture" : "https://telesochi.github.io/radiored/logo/ultra.png"
+  },
+
+
 {
     "name" : "Capital FM 105.3\nhttp://capitalfm.moscow/",
     "stream" : "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
