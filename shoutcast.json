@@ -51,8 +51,8 @@
   },
   {
     "name" : "АвтоРадио",
-    "stream" : "https://pub0101.101.ru:8443/stream/air/mp3/256/100",
-    "picture" : "https://fmplay.ru/img/avtoradio.webp"
+    "stream" : "http://ic7.101.ru:8000/v3_1",
+    "picture" : "https://telesochi.github.io/radiored/logo/avtoradio.png"
   },
   {
     "name" : "87,5 BUSINESS FM\nПервое деловое радио",
