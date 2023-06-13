@@ -29,25 +29,22 @@
     "stream" : "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
     "picture" : "https://fmplay.ru/img/nashe.webp"
   },
-{
+  {
     "name" : "Москва FM 92.0FM",
     "stream" : "http://icecast.vgtrk.cdnvideo.ru/moscowfm128",
     "picture" : "https://telesochi.github.io/radiored/logo/moskva_FM_92_0.png"
   },
-{
+  {
     "name" : "Говорит Москва 94.8FM",
     "stream" : "https://stream.govoritmoskva.ru:8000/gm96.mp3",
     "picture" : "https://telesochi.github.io/radiored/logo/govorit_moskva94_8.png"
   },
-
-{
+  {
     "name" : "Ultra\n(256 kbps)",
     "stream" : "http://nashe1.hostingradio.ru:80/ultra-256",
     "picture" : "https://telesochi.github.io/radiored/logo/ultra.png"
   },
-
-
-{
+  {
     "name" : "Capital FM 105.3\nhttp://capitalfm.moscow/",
     "stream" : "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
     "picture" : "https://telesochi.github.io/radiored/logo/capital_fm.jpg"
@@ -164,16 +161,11 @@
     "stream" : "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
     "picture" : "https://fmplay.ru/img/iskatel.webp"
   },
-
-
   {
     "name" : "Deep FM",
     "stream" : "https://deep.amgradio.ru/DeepFM",
     "picture" : "https://telesochi.github.io/radiored/logo/deep-fm.jpg"
   },
-
-
-
   {
     "name" : "Спокойное Радио",
     "stream" : "https://myradio24.org/6262",
@@ -378,16 +370,6 @@
     "name" : "Лихие 90-е",
     "stream" : "https://rr-90.hostingradio.ru/rr9096.aacp",
     "picture" : "https://telesochi.github.io/radiored/logo/90.jpg"
-  },
-  {
-    "name" : "SOMA.FM Underground 80S",
-    "stream" : "https://ice1.somafm.com/u80s-128-mp3",
-    "picture" : "http://somafm.com/logos/512/u80s512.png"
-  },
-  {
-    "name" : "Retro Gold",
-    "stream" : "https://live.radiospinner.com/retrgold-64",
-    "picture" : "https://radiospinner.com/images/stations/6110bc53540e1.jpg"
   },
   {
     "name" : "Ретро Gold",
