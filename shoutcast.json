@@ -6,7 +6,7 @@
   },
   {
     "name" : "Комсомольская правда\nПрямой эфир (32 kbps)",
-    "stream" : "https://fed.fmplay.ru:8000/kpravda-32.aac",
+    "stream" : "https://kpradio.hostingradio.ru:8000/64",
     "picture" : "https://fmplay.ru/img/kpravda.webp"
   },
   {
@@ -67,6 +67,13 @@
     "stream" : "https://bfm.hostingradio.ru:9075/fm",
     "picture" : "https://telesochi.github.io/radiored/logo/bfm.webp"
   },
+  {
+    "name" : "DFM\nrussian dance",
+    "stream" : "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
+    "picture" : "https://telesochi.github.io/radiored/logo/dfm.png"
+  },
+
+
   {
     "name" : "Кекс FM Rus",
     "stream" : "http://emg02.hostingradio.ru/keksfm64.aac",
@@ -325,7 +332,7 @@
   {
     "name" : "Радио СССР",
     "stream" : "https://myradio24.org/ussr",
-    "picture" : "https://telesochi.github.io/radiored/logo/radioussr.webp"
+    "picture" : "https://telesochi.github.io/radiored/logo/radio-ussr.jpg"
   },
  {
     "name" : "Radio80S",
