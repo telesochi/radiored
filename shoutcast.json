@@ -164,6 +164,16 @@
     "stream" : "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
     "picture" : "https://fmplay.ru/img/iskatel.webp"
   },
+
+
+  {
+    "name" : "Deep FM",
+    "stream" : "https://deep.amgradio.ru/DeepFM",
+    "picture" : "https://telesochi.github.io/radiored/logo/deep-fm.jpg"
+  },
+
+
+
   {
     "name" : "Спокойное Радио",
     "stream" : "https://myradio24.org/6262",
