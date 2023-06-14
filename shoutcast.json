@@ -1,4 +1,30 @@
 [
+
+  {
+    "name" : "Музыка из СССР",
+    "stream" : "https://c6.radioboss.fm:18098/stream",
+    "picture" : "https://c6.radioboss.fm/w/artwork/98.png"
+  },
+  {
+    "name" : "Русский ПОП",
+    "stream" : "https://c6.radioboss.fm:18099/stream",
+    "picture" : "https://c6.radioboss.fm/w/artwork/99.png"
+  },
+  {
+    "name" : "Русский РОК",
+    "stream" : "https://c6.radioboss.fm:18097/stream",
+    "picture" : "https://c6.radioboss.fm/w/artwork/97.png"
+  },
+  {
+    "name" : "Зарубежные Хиты",
+    "stream" : "https://c6.radioboss.fm:18089/stream",
+    "picture" : "https://c6.radioboss.fm/w/artwork/89.png"
+  },
+  {
+    "name" : "Шансон",
+    "stream" : "https://c6.radioboss.fm:18096/stream",
+    "picture" : "https://c6.radioboss.fm/w/artwork/96.png"
+  },
   {
     "name" : "Europa Plus",
     "stream" : "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
@@ -210,31 +236,6 @@
     "name" : "Радиола",
     "stream" : "https://radiola.hostingradio.ru/radiola_sam_64.aac",
     "picture" : "https://fmplay.ru/img/radiolaekb.webp"
-  },
-  {
-    "name" : "Музыка СССР",
-    "stream" : "https://c6.radioboss.fm:18098/stream",
-    "picture" : "https://c6.radioboss.fm/w/artwork/98.png"
-  },
-  {
-    "name" : "Русский ПОП",
-    "stream" : "https://c6.radioboss.fm:18099/stream",
-    "picture" : "https://c6.radioboss.fm/w/artwork/99.png"
-  },
-  {
-    "name" : "Русский РОК",
-    "stream" : "https://c6.radioboss.fm:18097/stream",
-    "picture" : "https://c6.radioboss.fm/w/artwork/97.png"
-  },
-  {
-    "name" : "Зарубежные Хиты",
-    "stream" : "https://c6.radioboss.fm:18089/stream",
-    "picture" : "https://c6.radioboss.fm/w/artwork/89.png"
-  },
-  {
-    "name" : "Шансон",
-    "stream" : "https://c6.radioboss.fm:18096/stream",
-    "picture" : "https://c6.radioboss.fm/w/artwork/96.png"
   },
   {
   "name" : "Русская классика\nПрямой эфир",
