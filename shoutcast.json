@@ -36,8 +36,8 @@
     "picture" : "https://fmplay.ru/img/kpravda.webp"
   },
   {
-    "name" : "Маяк\nПрямой эфир (32 kbps)",
-    "stream" : "https://fed.fmplay.ru:8000/mayak-32.aac",
+    "name" : "Маяк\nПрямой эфир (64 kbps)",
+    "stream" : "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
     "picture" : "https://fmplay.ru/img/mayak.webp"
   },
   {
@@ -60,6 +60,16 @@
     "stream" : "http://icecast.vgtrk.cdnvideo.ru/moscowfm128",
     "picture" : "https://telesochi.github.io/radiored/logo/moskva_FM_92_0.png"
   },
+
+
+  {
+    "name" : "SOUND PARK DEEP",
+    "stream" : "https://relay3.radiotoolkit.com/spdeep",
+    "picture" : "https://telesochi.github.io/radiored/logo/soundparkdeep.jpg"
+  },
+
+
+
   {
     "name" : "Говорит Москва 94.8FM",
     "stream" : "https://stream.govoritmoskva.ru:8000/gm96.mp3",
