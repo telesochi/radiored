@@ -68,7 +68,11 @@
     "picture" : "https://telesochi.github.io/radiored/logo/soundparkdeep.jpg"
   },
 
-
+{
+    "name" : "CHILL Камчатка",
+    "stream" : "http://radio.kamchatkalive.ru:8100/chillout",
+    "picture" : "https://telesochi.github.io/radiored/logo/chillout-kamchatka.png"
+  },
 
   {
     "name" : "Говорит Москва 94.8FM",
