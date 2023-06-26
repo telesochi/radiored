@@ -167,6 +167,11 @@
     "picture" : "https://fmplay.ru/img/mir.webp"
   },
   {
+    "name" : "Первое радио",
+    "stream" : "https://stream.pervoe.fm:8443/",
+    "picture" : "https://telesochi.github.io/radiored/logo/pervoe.jpg"
+  },
+  {
     "name" : "Радио Республика\n104.8 FM Луганск",
     "stream" : "https://radio.gtrklnr.ru:8443/republic.fm",
     "picture" : "https://telesochi.github.io/radiored/logo/radio-respublika-lnr.png"
@@ -232,11 +237,6 @@
     "picture" : "https://telesochi.github.io/radiored/logo/tatar-radiosyi.webp"
   },
   {
-    "name" : "Полезное Радио\nПрямой эфир (Феодосия)",
-    "stream" : "https://www.liveradio.es/http://195.161.114.53:8000/feocast",
-    "picture" : "https://telesochi.github.io/radiored/logo/poleznoe.png"
-  },
-  {
     "name" : "Русский ХИТ",
     "stream" : "https://rp.amgradio.ru/RuWave48",
     "picture" : "https://radiopotok.mobi/f/station_webp/152/257.webp"
@@ -252,11 +252,6 @@
     "picture" : "https://fmplay.ru/img/radiolaekb.webp"
   },
   {
-  "name" : "Русская классика\nПрямой эфир",
-  "stream" : "https://channels.fonotron.ru:8000/Chan_73_128.mp3",
-  "picture" : "https://telesochi.github.io/radiored/logo/russkaya-klassika.png"
-  },
-  {
   "name" : "Советская эстрада",
   "stream" : "https://evcast.mediacp.eu:2075/stream",
   "picture" : "https://telesochi.github.io/radiored/logo/sovetestrada.jpg"
@@ -270,11 +265,6 @@
     "name" : "Дискотека 80/90",
     "stream" : "https://myradio24.org/dance80?123",
     "picture" : "https://telesochi.github.io/radiored/logo/diskoteka80-90.jpg"
-  },
-  {
-  "name" : "Old School Radio",
-  "stream" : "https://bigtunesradio.com:8003/oldschool.mp3",
-  "picture" : "https://telesochi.github.io/radiored/logo/oldschool.jpg"
   },
   {
     "name" : "Старое Доброе Радио\nПрямой эфир",
