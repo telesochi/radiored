@@ -1,5 +1,37 @@
 [
 
+
+ {
+    "name" : "Europa Plus",
+    "stream" : "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "picture" : "https://fmplay.ru/img/europaplus.webp"
+  },
+  {
+    "name" : "Вести FM\nПрямой эфир (32 kbps)",
+    "stream" : "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
+    "picture" : "https://fmplay.ru/img/vesti.webp"
+  },
+  {
+    "name" : "Маяк\nПрямой эфир (64 kbps)",
+    "stream" : "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
+    "picture" : "https://fmplay.ru/img/mayak.webp"
+  },
+  {
+    "name" : "Комсомольская правда\nПрямой эфир (32 kbps)",
+    "stream" : "https://kpradio.hostingradio.ru:8000/64",
+    "picture" : "https://fmplay.ru/img/kpravda.webp"
+  },
+  {
+    "name" : "СоловьёвFM\nПрямой эфир (32 kbps)",
+    "stream" : "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
+    "picture" : "https://telesochi.github.io/radiored/logo/solovievfm.jpg"
+  },
+  {
+    "name" : "Звезда\nПрямой эфир (32 kbps)",
+    "stream" : "https://fed.fmplay.ru:8000/zvezda-32.aac",
+    "picture" : "https://fmplay.ru/img/zvezda.webp"
+  },
+
   {
     "name" : "Музыка из СССР",
     "stream" : "https://c6.radioboss.fm:18098/stream",
@@ -25,31 +57,7 @@
     "stream" : "https://c6.radioboss.fm:18096/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/96.png"
   },
-  {
-    "name" : "Europa Plus",
-    "stream" : "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "picture" : "https://fmplay.ru/img/europaplus.webp"
-  },
-  {
-    "name" : "Комсомольская правда\nПрямой эфир (32 kbps)",
-    "stream" : "https://kpradio.hostingradio.ru:8000/64",
-    "picture" : "https://fmplay.ru/img/kpravda.webp"
-  },
-  {
-    "name" : "Маяк\nПрямой эфир (64 kbps)",
-    "stream" : "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
-    "picture" : "https://fmplay.ru/img/mayak.webp"
-  },
-  {
-    "name" : "СоловьёвFM\nПрямой эфир (32 kbps)",
-    "stream" : "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
-    "picture" : "https://telesochi.github.io/radiored/logo/solovievfm.jpg"
-  },
-  {
-    "name" : "Вести FM\nПрямой эфир (32 kbps)",
-    "stream" : "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
-    "picture" : "https://fmplay.ru/img/vesti.webp"
-  },
+
   {
     "name" : "Наше Радио (128 kbps)",
     "stream" : "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
@@ -89,11 +97,7 @@
     "stream" : "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
     "picture" : "https://telesochi.github.io/radiored/logo/capital_fm.jpg"
   },
-  {
-    "name" : "Звезда\nПрямой эфир (32 kbps)",
-    "stream" : "https://fed.fmplay.ru:8000/zvezda-32.aac",
-    "picture" : "https://fmplay.ru/img/zvezda.webp"
-  },
+
   {
     "name" : "АвтоРадио",
     "stream" : "http://ic7.101.ru:8000/v3_1",
