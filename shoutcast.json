@@ -33,6 +33,28 @@
   },
 
   {
+    "name" : "Радио России\nПрямой эфир",
+    "stream" : "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
+    "picture" : "https://fmplay.ru/img/rrossii.webp"
+  },
+  {
+    "name" : "Радио Культура\nПрямой эфир (32 kbps)",
+    "stream" : "https://fed.fmplay.ru:8000/kultura-32.aac",
+    "picture" : "https://fmplay.ru/img/kultura.webp"
+  },
+  {
+    "name" : "Ретро ХИТ",
+    "stream" : "https://retro.amgradio.ru/Retro",
+    "picture" : "https://radiopotok.mobi/f/station/512/1570.png"
+  },
+
+  {
+    "name" : "Детский ХИТ",
+    "stream" : "https://deti.amgradio.ru/Deti",
+    "picture" : "https://radiopotok.mobi/f/station_webp/152/1395.webp"
+  },
+
+  {
     "name" : "Музыка из СССР",
     "stream" : "https://c6.radioboss.fm:18098/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/98.png"
@@ -130,31 +152,13 @@
     "stream" : "https://fed.fmplay.ru:8000/kommersant-32.aac",
     "picture" : "https://telesochi.github.io/radiored/logo/kommersant.webp"
   },
-  {
-    "name" : "Ретро ХИТ",
-    "stream" : "https://retro.amgradio.ru/Retro",
-    "picture" : "https://radiopotok.mobi/f/station/512/1570.png"
-  },
+
   {
     "name" : "Русское Радио (128 kbps)",
     "stream" : "https://rusradio.hostingradio.ru/rusradio128.mp3",
     "picture" : "https://fmplay.ru/img/rusradio.webp"
   },
-  {
-    "name" : "Радио России\nПрямой эфир",
-    "stream" : "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
-    "picture" : "https://fmplay.ru/img/rrossii.webp"
-  },
-  {
-    "name" : "Радио Культура\nПрямой эфир (32 kbps)",
-    "stream" : "https://fed.fmplay.ru:8000/kultura-32.aac",
-    "picture" : "https://fmplay.ru/img/kultura.webp"
-  },
-  {
-    "name" : "Детский ХИТ",
-    "stream" : "https://deti.amgradio.ru/Deti",
-    "picture" : "https://radiopotok.mobi/f/station_webp/152/1395.webp"
-  },
+
   {
     "name" : "Sputnik\nПрямой эфир (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/sputnik-32.aac",
@@ -384,8 +388,11 @@
     "name" : "Ретро Gold",
     "stream" : "https://live.radiospinner.com/rtrgld-64",
     "picture" : "https://radiospinner.com/images/stations/6110bc53540e1.jpg"
+  },
+  {
+    "name" : "Ностальжи Россия",
+    "stream" : "https://listen7.myradio24.com/alexx333",
+    "picture" : "https://telesochi.github.io/radiored/logo/638.webp"
   }
-
-
 
 ]
