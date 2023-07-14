@@ -1,7 +1,7 @@
 [
 
 
- {  "title": "test title",
+ {
     "name" : "Europa Plus",
     "stream" : "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "picture" : "https://fmplay.ru/img/europaplus.webp"
@@ -393,6 +393,11 @@
     "name" : "Ностальжи Россия",
     "stream" : "https://listen7.myradio24.com/alexx333",
     "picture" : "https://telesochi.github.io/radiored/logo/638.webp"
+  },
+  {
+    "name" : "RussianRadio EU",
+    "stream" : "https://s35.derstream.net/stream",
+    "picture" : "https://telesochi.github.io/radiored/logo/russianradio-eu.jpg"
   }
 
 ]
