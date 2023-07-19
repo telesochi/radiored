@@ -142,8 +142,8 @@
     "picture" : "https://telesochi.github.io/radiored/logo/keks.webp"
   },
   {
-    "name" : "Enigmatic",
-    "stream" : "https://myradio24.org/8226",
+    "name" : "Enigma",
+    "stream" : "https://stream05.pcradio.ru/Enigma-med",
     "picture" : "https://telesochi.github.io/radiored/logo/enigmatic.png"
   },
   {
@@ -397,6 +397,16 @@
     "name" : "RussianRadio EU",
     "stream" : "https://s35.derstream.net/stream",
     "picture" : "https://telesochi.github.io/radiored/logo/russianradio-eu.jpg"
+  },
+  {
+    "name" : "Sandra",
+    "stream" : "https://stream05.pcradio.ru/Sandra-med",
+    "picture" : "https://telesochi.github.io/radiored/logo/sandra.jpg"
+  },
+  {
+    "name" : "a-ha",
+    "stream" : "https://stream05.pcradio.ru/aha-med",
+    "picture" : "https://telesochi.github.io/radiored/logo/a-ha.jpg"
   }
 
 ]
