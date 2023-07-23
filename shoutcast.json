@@ -142,11 +142,6 @@
     "picture" : "https://telesochi.github.io/radiored/logo/keks.webp"
   },
   {
-    "name" : "Enigma",
-    "stream" : "https://stream05.pcradio.ru/Enigma-med",
-    "picture" : "https://telesochi.github.io/radiored/logo/enigmatic.png"
-  },
-  {
     "name" : "Коммерсантъ FM\nрадио новостей",
     "stream" : "https://fed.fmplay.ru:8000/kommersant-32.aac",
     "picture" : "https://telesochi.github.io/radiored/logo/kommersant.webp"
@@ -397,6 +392,11 @@
     "name" : "RussianRadio EU",
     "stream" : "https://s35.derstream.net/stream",
     "picture" : "https://telesochi.github.io/radiored/logo/russianradio-eu.jpg"
+  },
+  {
+    "name" : "Enigma",
+    "stream" : "https://stream05.pcradio.ru/Enigma-med",
+    "picture" : "https://telesochi.github.io/radiored/logo/enigmatic.png"
   },
   {
     "name" : "Sandra",
