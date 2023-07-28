@@ -407,16 +407,11 @@
     "name" : "a-ha",
     "stream" : "https://stream05.pcradio.ru/aha-med",
     "picture" : "https://telesochi.github.io/radiored/logo/a-ha.jpg"
-  }
-
-
-
-
-,
+  },
   {
-    "name" : "Antenne",
-    "stream" : "https://antnds.streamabc.net/ands-antnds80er-mp3-128-1016578",
-    "picture" : "https://telesochi.github.io/radiored/logo/c300.png"
+    "name" : "Волгоград 24",
+    "stream" : "https://s0.radioheart.ru:8000/RH59163",
+    "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
   }
 
 
