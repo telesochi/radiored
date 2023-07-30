@@ -334,9 +334,9 @@
     "picture" : "https://fmplay.ru/img/marusya.webp"
   },
   {
-    "name" : "Meta Radio",
-    "stream" : "http://play.metaradio.ru:80/mradio.aacp",
-    "picture" : "https://telesochi.github.io/radiored/logo/metaradio.png"
+    "name" : "Хитрое",
+    "stream" : "https://stream.hitroe.com:8443/stream",
+    "picture" : "https://telesochi.github.io/radiored/logo/hitroe.jpg"
   },
   {
     "name" : "Радио СССР",
