@@ -26,7 +26,11 @@
     "stream" : "https://fed.fmplay.ru:8000/zvezda-32.aac",
     "picture" : "https://fmplay.ru/img/zvezda.webp"
   },
-
+  {
+    "name" : "Известия ФМ\nПрямой эфир",
+    "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
+    "picture" : "https://telesochi.github.io/radiored/logo/iz.png"
+  }
   {
     "name" : "Радио России\nПрямой эфир",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
@@ -411,12 +415,6 @@
   {
     "name" : "Волгоград 24\nПрямой эфир",
     "stream" : "https://s0.radioheart.ru:8000/RH59163",
-    "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
-  }
-,
-  {
-    "name" : "Волгоград 24\nПрямой эфир",
-    "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
     "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
   }
 
