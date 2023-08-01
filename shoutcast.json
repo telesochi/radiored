@@ -409,12 +409,16 @@
     "picture" : "https://telesochi.github.io/radiored/logo/a-ha.jpg"
   },
   {
-    "name" : "Волгоград 24",
+    "name" : "Волгоград 24\nПрямой эфир",
     "stream" : "https://s0.radioheart.ru:8000/RH59163",
     "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
   }
-
-
+,
+  {
+    "name" : "Волгоград 24\nПрямой эфир",
+    "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
+    "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
+  }
 
 
 
