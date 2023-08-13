@@ -48,7 +48,7 @@
   },
   {
     "name" : "Europa Plus",
-    "stream" : "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "stream" : "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "picture" : "https://fmplay.ru/img/europaplus.webp"
   },
   {
@@ -108,8 +108,8 @@
   },
 
   {
-    "name" : "Говорит Москва 94.8FM",
-    "stream" : "https://stream.govoritmoskva.ru:8000/gm96.mp3",
+    "name" : "Говорит Москва 94.8FM\онлайн (32 kbps)",
+    "stream" : "https://fed.fmplay.ru:8000/gmoskva-32.aac",
     "picture" : "https://telesochi.github.io/radiored/logo/govorit_moskva94_8.png"
   },
   {
@@ -411,6 +411,16 @@
     "name" : "a-ha",
     "stream" : "https://stream05.pcradio.ru/aha-med",
     "picture" : "https://telesochi.github.io/radiored/logo/a-ha.jpg"
+  },
+  {
+    "name" : "Pet Shop Boys",
+    "stream" : "https://stream01.pcradio.ru/pet_shop_boys-med",
+    "picture" : "https://telesochi.github.io/radiored/logo/petshopboys.jpg"
+  },
+  {
+    "name" : "Король и Шут",
+    "stream" : "https://stream01.pcradio.ru/Korol_i_Shut-med",
+    "picture" : "https://telesochi.github.io/radiored/logo/korol.jpg"
   },
   {
     "name" : "Волгоград 24\nПрямой эфир",
