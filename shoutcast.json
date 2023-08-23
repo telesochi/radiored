@@ -426,8 +426,11 @@
     "name" : "Волгоград 24\nПрямой эфир",
     "stream" : "https://s0.radioheart.ru:8000/RH59163",
     "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
+  },
+  {
+    "name" : "Приключения Электроников",
+    "stream" : "https://stream05.pcradio.ru/priklyuchenia_elektronikov-med",
+    "picture" : "https://telesochi.github.io/radiored/logo/electronics.png"
   }
-
-
 
 ]
