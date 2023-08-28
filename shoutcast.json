@@ -27,13 +27,13 @@
     "picture" : "https://fmplay.ru/img/zvezda.webp"
   },
   {
-    "name" : "Известия ФМ\nПрямой эфир",
+    "name" : "Известия ФМ\nЗвуковой эфир телеканала",
     "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
     "picture" : "https://telesochi.github.io/radiored/logo/iz.png"
   },
 {
     "name" : "Россия 24\nЗвуковой эфир телеканала",
-    "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
+    "stream" : "http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8",
     "picture" : "https://telesochi.github.io/radiored/logo/rossia24.webp"
   },
 
