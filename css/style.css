@@ -1,0 +1,376 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap');
+
+h1 {
+font-size: 15px;
+}
+
+
+
+.radiored{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 11px;
+    margin: 30px auto;
+cursor: pointer;
+}
+
+/*         zoom                 */
+
+
+.zoom {
+ /* padding: 8px 8px; */
+
+  transition: transform .9s; /* Animation */
+cursor: pointer;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+transform: scale(1.2); /* (110% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+
+
+/*         zoom          */
+
+
+
+
+
+
+
+img.rot {
+  animation: 5s linear 0s normal none infinite running rot;
+  -webkit-animation: 5s linear 0s normal none infinite running rot;
+  width: 60px;
+}
+@keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.button {
+  margin: 3px;
+  border: none;
+  color: #ededed;
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 10px;
+  font-family: 'Comfortaa', cursive;
+cursor: pointer;
+}
+
+
+#PS {display: none;}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    line-height: 1.5;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    background-image: url();*/
+    background-repeat: no-repeat;    
+    background-size: cover;          /* Фон занимает всю доступную площадь */
+    backdrop-filter: blur(10px);
+
+font-family: 'Comfortaa', cursive;
+
+}
+
+
+
+
+
+
+
+
+
+.music-player{
+
+width: 400px;
+height: 600px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.4);
+    box-shadow: 0 40px 80px rgba(0,0,0, 0.3); 
+    padding: 20px;
+    overflow: hidden;
+    color: #ededed;                                               /* цвет текстов */
+}
+
+
+
+
+.artist-name{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 15px;
+cursor: pointer;
+}
+
+.music-name{
+    position: absolute;
+    right: 0;
+cursor: pointer;
+}
+
+.autor{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 12px;
+    color: #ededed;
+cursor: pointer;
+
+}
+
+
+
+.disk{
+    position: relative;
+    display: block;
+    margin: 30px auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;                          /*    скругление картинки    */
+    background-image: url('');
+    background-size: cover;
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.5);
+    animation: rotate 20s linear infinite;
+    animation-play-state: paused;
+cursor: pointer;
+}
+
+.disk.play{
+    animation-play-state: running;
+}
+
+.disk::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background: #878787;
+}
+
+
+
+
+.song-slider{
+    width: 100%;
+    position: relative;
+}
+
+.seek-bar{
+    -webkit-appearance: none;
+    width: 100%;
+    height: 5px;
+    border-radius: 10px;
+    background: #878787;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.seek-bar::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    width: 1px;
+    height: 20px;
+    box-shadow: -400px 0 0 400px #EBEBEB;                         /* прогресс бар */
+}
+
+
+
+.current-time,
+.song-duration{
+    font-size: 14px;
+}
+
+.song-duration{
+    position: absolute;
+    right: 0;
+}
+
+.controls{
+    width: 60px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 3px;
+}
+
+.play-btn{
+    margin: 30px auto;
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+ /*   background: #ce2727;                                     фон кнопки плей  */
+    cursor: pointer;
+    border: none;
+}
+
+.play-btn span{
+    position: absolute;
+    top: 50%;
+    left: 26%;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 30px;
+    border-radius: 2px;
+/*    background: #ce2727;                                       цвет кнопки плей */
+    transition: .5s;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.play-btn span:nth-child(2){
+    left: 55%;
+    transform-origin: center;
+}
+
+
+
+.play-btn.pause span:nth-child(2){
+    transform: translateY(-50%) scaleY(0);
+}
+
+.play-btn.pause span:nth-child(1){
+    width: 35%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    border-radius: 0;
+    clip-path: polygon(0 0, 100% 50%, 100% 50%, 0% 100%);
+}
+
+.play-btn.pause{
+    animation: pulse 2s linear infinite;
+}
+
+@keyframes pulse{
+    0%{
+        box-shadow: 0;
+    }
+    50%{
+        box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.1);
+    }
+    100%{
+        box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.4);
+    }
+}
+
+
+.btn{
+    width: 50px;
+    height: 50px;
+ 
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+@keyframes rotate{
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+.disk{
+    // previous styles
+    animation: rotate 20s linear infinite;
+    animation-play-state: paused;
+}
+
+.disk.play{
+    animation-play-state: running;
+}
+
+
+
+
+//
+
+
+nav {
+    display: block;
+    margin: 2rem auto;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin: 1rem;
+    padding: 1rem;
+}
+ul li a {
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+   /* color: var(--white-color); */
+    transition: all 300ms;
+}
+ul li a:hover {
+color: red;
+  
+}
+
+a{
+text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: #ededed;
+text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #ededed;
+text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #e4e6e3;
+text-decoration: none;
+}
+
+/* при клике link */
+a:active {
+  color: #e4e6e3;
+text-decoration: none;
+}
