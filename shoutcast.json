@@ -437,6 +437,12 @@
     "name" : "Приключения Электроников",
     "stream" : "https://stream05.pcradio.ru/priklyuchenia_elektronikov-med",
     "picture" : "https://telesochi.github.io/radiored/logo/electronics.png"
+  },
+  {
+    "name" : "Fox News",
+    "stream" : "http://tunein.streamguys1.com:80/foxnews",
+    "picture" : "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png"
   }
+
 
 ]
