@@ -1,8 +1,8 @@
 {
- "name": "Radio Enigma",
- "short_name": "Radio Enigma",
+ "name": "Enigma Stream Radio",
+ "short_name": "Enigma Radio",
  "start_url": "https://telesochi.github.io/radiored/index.html",
- "description": "Simple stream Enigma music player 24x7",
+ "description": "Simple stream Enigma music radio player 24x7",
  "display": "standalone",
  "orientation": "portrait",
  "theme_color": "#282829",
