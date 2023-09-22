@@ -295,9 +295,10 @@
   },
   {
     "name" : "Italo New Generation",
-    "stream" : "https://cast1.torontocast.com:1315/stream",
+    "stream" : "https://cast1.torontocast.com:1310/stream",
     "picture" : "https://telesochi.github.io/radiored/logo/new.png"
   },
+
   {
     "name" : "RMI Italo Disco Classic",
     "stream" : "https://cast1.torontocast.com:1165/stream",
@@ -364,12 +365,12 @@
     "picture" : "https://telesochi.github.io/radiored/logo/spacesynth.jpg"
   },
   {
-    "name" : "Synthetic FM",
-    "stream" : "https://mediaserv38.live-streams.nl:18030/stream",
+    "name" : "SyntheticFM",
+    "stream" : "https://mediaserv38.live-streams.nl:18040/live",
     "picture" : "https://telesochi.github.io/radiored/logo/synthetic-fm.jpg"
   },
   {
-    "name" : "Synthetic 2 FM",
+    "name" : "SyntheticFM 2",
     "stream" : "https://mediaserv38.live-streams.nl:18040/live",
     "picture" : "https://telesochi.github.io/radiored/logo/synthetic2-fm.png"
   },
@@ -442,6 +443,11 @@
     "name" : "Fox News",
     "stream" : "http://tunein.streamguys1.com:80/foxnews",
     "picture" : "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png"
+  },
+  {
+    "name" : "Вести FM\nКубань",
+    "stream" : "https://icecast-vgtrk.cdnvideo.ru/vesti_kuban",
+    "picture" : "https://fmplay.ru/img/vesti.webp"
   }
 
 
