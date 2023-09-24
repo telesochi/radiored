@@ -5,8 +5,8 @@
 
 
   <meta charset="utf-8">
-  <title>Enigma Radio</title>
-  <meta name="description" content="Simple Enigma stream music player 24x7">
+  <title>Радио СССР</title>
+  <meta name="description" content="Радио СССР круглые сутки">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
   <link rel="apple-touch-icon" href="images/150x150.png">
@@ -29,9 +29,9 @@
 
 <div class="container">
 <!--контейнер--->    
-<audio id="player" src="https://myradio24.org/8226"></audio>
+<audio id="player" src="https://myradio24.org/ussr"></audio>
 <div class="music-player">
-<center><h1>Enigma Radio</h1><ul>
+<center><h1>Радио СССР</h1><ul>
 <div class="tab">
   <a class="tablinks nav-link button zoom" onclick="openCity(event, 'play')">Плеер</a>
   <a class="tablinks nav-link button zoom" onclick="openCity(event, 'history')">История эфира</a>
@@ -53,7 +53,7 @@
 	<img src="./images/pause.png" class="rot" width="60" height="60" id="PS" onclick="document.getElementById	('player').pause(); document.getElementById('PS').style.display = 'none'; document.getElementById('PL').style.display = 'block';" alt="pause stream music 80S">
 
 		</div> 
-<div class="radiored"><a href="https://t.me/denisdeaf" title="Denis Deaf">&copy; Denis Deaf</a></div>
+<div class="radiored">Слушают: <b data-myinfo="listeners"></b></div>
 </div>
 <!---/1--->
 <!---2--->
@@ -76,9 +76,13 @@
 <!---/2--->
 <!---3--->
 <div id="about" class="tabcontent" style="display:none">&nbsp;<br>
-  <h3>Информация</h3>
+  <h3>Как установить?</h3>
 <p>&nbsp;</p>
-<p>Как установить этот плеер в телефон? - В браузере Chrome справа вверху нажмите на три точки, в появившемся меню выберите "установить приложение".</p>
+<p>- В браузере Chrome справа вверху нажмите на три точки, далее в появившемся меню выберите "установить приложение".</p>
+<p>&nbsp;</p>
+<p><a href="https://qiwi.com/n/DENNISDEAF">>> Благодарить автора <<</a></p>
+<p align="right">- Спасибо.</p>
+
 <p>&nbsp;</p>
 Сейчас слушают: <b data-myinfo="listeners"></b><br>
 Скорость потока: <b><span data-myinfo="kbps"></span></b> kbps
@@ -91,7 +95,7 @@
 
 <!--/контейнер--->
 </div>
-<script src="https://myradio24.com/player/player.js?v3.29" data-port="8226" data-interval=10 data-vmid=109770></script>
+<script src="https://myradio24.com/player/player.js?v3.29" data-port="ussr" data-interval=10 data-vmid=109770></script>
 <script src="tabs.js"></script>
 
 <script src="app.js"></script>
