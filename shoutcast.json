@@ -214,6 +214,11 @@
   "picture" : "https://telesochi.github.io/radiored/logo/fantastika.jpg"
   },
   {
+  "name" : "Модель для сборки",
+  "stream" : "http://mds-station.com:8000/mds",
+  "picture" : "https://telesochi.github.io/radiored/logo/mds.png"
+  },
+  {
     "name" : "Искатель",
     "stream" : "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
     "picture" : "https://fmplay.ru/img/iskatel.webp"
