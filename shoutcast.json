@@ -64,29 +64,36 @@
   },
 
   {
-    "name" : "Музыка из СССР",
+    "name" : "Донат ФМ - СССР",
     "stream" : "https://c6.radioboss.fm:18098/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/98.png"
   },
   {
-    "name" : "Русский ПОП",
+    "name" : "Донат ФМ - Русский ПОП",
     "stream" : "https://c6.radioboss.fm:18099/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/99.png"
   },
   {
-    "name" : "Русский РОК",
+    "name" : "Донат ФМ - Русский РОК",
     "stream" : "https://c6.radioboss.fm:18097/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/97.png"
   },
   {
-    "name" : "Зарубежные Хиты",
+    "name" : "Донат ФМ - Зарубежные Хиты",
     "stream" : "https://c6.radioboss.fm:18089/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/89.png"
   },
   {
-    "name" : "Шансон",
+    "name" : "Донат ФМ - Шансон",
     "stream" : "https://c6.radioboss.fm:18096/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/96.png"
+  },
+
+
+{
+    "name" : "Радио Дача",
+    "stream" : "https://stream2.n340.com/12_dacha_64_reg_1093?type=aac&UID=CA5EF979AE411F8E861AEE7C79460B51",
+    "picture" : "https://www.radiodacha.ru/backend/uploads/media/radiodacha/0021/01/thumb_2000194_radiodacha_medium.jpg"
   },
 
   {
