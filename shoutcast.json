@@ -310,7 +310,7 @@
   {
     "name" : "Italo New Generation",
     "stream" : "https://cast1.torontocast.com:1310/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/new.png"
+    "picture" : "https://telesochi.github.io/radiored/logo/new-generation.jpg"
   },
 
   {
@@ -456,7 +456,7 @@
   {
     "name" : "Fox News",
     "stream" : "http://tunein.streamguys1.com:80/foxnews",
-    "picture" : "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png"
+    "picture" : "https://telesochi.github.io/radiored/logo/fox-news.jpg"
   },
   {
     "name" : "Вести FM\nКубань",
