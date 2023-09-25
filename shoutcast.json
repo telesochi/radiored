@@ -193,9 +193,9 @@
     "picture" : "https://telesochi.github.io/radiored/logo/pervoe.jpg"
   },
   {
-    "name" : "Радио Республика\n104.8 FM Луганск",
-    "stream" : "https://radio.gtrklnr.ru:8443/republic.fm",
-    "picture" : "https://telesochi.github.io/radiored/logo/radio-respublika-lnr.png"
+    "name" : "Радио Республика\nДонецк 99.0",
+    "stream" : "http://212.66.37.40:8000/radiorepublic",
+    "picture" : "https://telesochi.github.io/radiored/logo/respublika.jpg"
   },
   {
     "name" : "Победа\n106.9 FM Луганск",
