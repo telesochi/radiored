@@ -88,14 +88,16 @@
     "stream" : "https://c6.radioboss.fm:18096/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/96.png"
   },
-
-
-{
+  {
     "name" : "Радио Дача",
-    "stream" : "https://stream2.n340.com/12_dacha_64_reg_1093?type=aac&UID=CA5EF979AE411F8E861AEE7C79460B51",
-    "picture" : "https://www.radiodacha.ru/backend/uploads/media/radiodacha/0021/01/thumb_2000194_radiodacha_medium.jpg"
+    "stream" : "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64",
+    "picture" : "https://telesochi.github.io/radiored/logo/rd.png"
   },
-
+  {
+    "name" : "Песня Года",
+    "stream" : "https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_2_pesnyagoda_56",
+    "picture" : "https://telesochi.github.io/radiored/logo/pg.jpg"
+  },
   {
     "name" : "Наше Радио (128 kbps)",
     "stream" : "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
@@ -121,7 +123,7 @@
   },
 
   {
-    "name" : "Говорит Москва 94.8FM\онлайн (32 kbps)",
+    "name" : "Говорит Москва 94.8FM\nонлайн (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/gmoskva-32.aac",
     "picture" : "https://telesochi.github.io/radiored/logo/govorit_moskva94_8.png"
   },
