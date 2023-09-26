@@ -17,6 +17,11 @@
     "picture" : "https://fmplay.ru/img/kpravda.webp"
   },
   {
+    "name" : "Club Channel",
+    "stream" : "https://graalradio.com:8128/club160",
+    "picture" : "https://fmplay.ru/img/club.jpg"
+  },
+  {
     "name" : "СоловьёвFM\nПрямой эфир (32 kbps)",
     "stream" : "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "picture" : "https://telesochi.github.io/radiored/logo/solovievfm.jpg"
