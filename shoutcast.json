@@ -72,6 +72,18 @@
     "stream" : "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "picture" : "https://fmplay.ru/img/europaplus.webp"
   },
+
+
+
+{
+    "name" : "Дискотека 80-90",
+    "stream" : "https://myradio24.org/dance80",
+    "picture" : "https://telesochi.github.io/radiored/logo/disco80-90.jpg"
+  },
+
+
+
+
   {
     "name" : "Детский ХИТ",
     "stream" : "https://deti.amgradio.ru/Deti",
