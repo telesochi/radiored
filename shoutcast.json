@@ -53,6 +53,11 @@
     "picture" : "https://fmplay.ru/img/kultura.webp"
   },
   {
+    "name" : "Новое Радио",
+    "stream" : "https://stream.newradio.ru/novoe96.aacp",
+    "picture" : "https://telesochi.github.io/radiored/logo/novoe.png"
+  },
+  {
     "name" : "Радио Республика\nДонецк 99.0",
     "stream" : "http://212.66.37.40:8000/radiorepublic",
     "picture" : "https://telesochi.github.io/radiored/logo/respublika.jpg"
