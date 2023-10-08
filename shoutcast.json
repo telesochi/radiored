@@ -52,6 +52,17 @@
     "stream" : "https://fed.fmplay.ru:8000/kultura-32.aac",
     "picture" : "https://fmplay.ru/img/kultura.webp"
   },
+
+
+ {
+    "name" : "ТОР 100 RU (256 kbps)",
+    "stream" : "https://ic1.radiosignal.one/top100",
+    "picture" : "https://radiopotok.ru/f/station_webp/256/1992.webp"
+  },
+
+
+
+
   {
     "name" : "Новое Радио",
     "stream" : "https://stream.newradio.ru/novoe96.aacp",
