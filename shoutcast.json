@@ -210,6 +210,23 @@
     "picture" : "https://fmplay.ru/img/rusradio.webp"
   },
 
+{
+    "name" : "Дорожное Радио (64 kbps)",
+    "stream" : "https://dorognoe.hostingradio.ru/dorognoe_acc",
+    "picture" : "https://telesochi.github.io/radiored/logo/dorojnoe.png"
+  },
+
+
+
+{
+    "name" : "Дорожное Танцпол (128 kbps)",
+    "stream" : "https://dorognoe.hostingradio.ru/dorognoe1945.mp3",
+    "picture" : "https://telesochi.github.io/radiored/logo/drdance.png"
+  },
+
+
+
+
   {
     "name" : "Sputnik\nПрямой эфир (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/sputnik-32.aac",
