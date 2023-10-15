@@ -94,9 +94,14 @@
 
 
 {
-    "name" : "Зайцев диско (256 kbps)",
-    "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3",
+    "name" : "Зайцев DISCO (128 kbps)",
+    "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_128.mp3",
     "picture" : "https://telesochi.github.io/radiored/logo/zaycev.jpg"
+  },
+{
+    "name" : "Зайцев CLUB (128 kbps)",
+    "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_club_128.mp3",
+    "picture" : "https://telesochi.github.io/radiored/logo/zaycev-club.jpg"
   },
 
   {
