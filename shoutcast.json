@@ -98,11 +98,6 @@
     "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_128.mp3",
     "picture" : "https://telesochi.github.io/radiored/logo/zaycev.jpg"
   },
-{
-    "name" : "Зайцев CLUB (128 kbps)",
-    "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_club_128.mp3",
-    "picture" : "https://telesochi.github.io/radiored/logo/zaycev-club.jpg"
-  },
 
   {
     "name" : "Детский ХИТ",
@@ -134,6 +129,11 @@
     "name" : "Донат ФМ - Шансон",
     "stream" : "https://c6.radioboss.fm:18096/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/96.png"
+  },
+{
+    "name" : "Зайцев CLUB (128 kbps)",
+    "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_club_128.mp3",
+    "picture" : "https://telesochi.github.io/radiored/logo/zaycev-club.jpg"
   },
   {
     "name" : "Радио Дача",
@@ -388,10 +388,12 @@
     "picture" : "https://fmplay.ru/img/retro.webp"
   },
   {
-    "name" : "Радио ЖиZнь 9Z.ZFM\nПрямой эфир",
-    "stream" : "https://stream.zhizn-fm.ru:8443/life?2610",
-    "picture" : "https://telesochi.github.io/radiored/logo/zhizn.jpg"
+    "name" : "Радио ЖиZнь 9Z.ZFM",
+    "stream" : "https://stream.zhizn-fm.ru:8443/life",
+    "picture" : "https://telesochi.github.io/radiored/logo/zizn.webp"
   },
+
+
   {
     "name" : "VoltageFM",
     "stream" : "https://radio.voltagefm.ru:9009/VOLTAGEFM",
@@ -521,7 +523,11 @@
     "name" : "Вести FM\nКубань",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/vesti_kuban",
     "picture" : "https://fmplay.ru/img/vesti.webp"
+  },
+{
+    "name" : "Народная волна Чикаго",
+    "stream" : "https://wzru.radioca.st/stream",
+    "picture" : "https://telesochi.github.io/radiored/logo/nvc.webp"
   }
-
 
 ]
