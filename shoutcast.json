@@ -358,7 +358,7 @@
   },
   {
     "name" : "Italo4You",
-    "stream" : "http://s4.radiohost.pl:8000/",
+    "stream" : "https://ssl-1.radiohost.pl:8018/stream",
     "picture" : "https://telesochi.github.io/radiored/logo/italo4you.jpg"
   },
   {
@@ -441,7 +441,7 @@
   },
   {
     "name" : "SyntheticFM",
-    "stream" : "https://mediaserv38.live-streams.nl:18040/live",
+    "stream" : "https://mediaserv38.live-streams.nl:18030/stream",
     "picture" : "https://telesochi.github.io/radiored/logo/synthetic-fm.jpg"
   },
   {
@@ -525,9 +525,13 @@
     "picture" : "https://fmplay.ru/img/vesti.webp"
   },
 {
-    "name" : "Народная волна Чикаго",
-    "stream" : "https://wzru.radioca.st/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/nvc.webp"
+    "name" : "Шатунов Юрий",
+    "stream" : "https://stream05.pcradio.ru/Jurij_Shatunov-med",
+    "picture" : "https://telesochi.github.io/radiored/logo/shatunov.jpg"
   }
+
+
+
+
 
 ]
