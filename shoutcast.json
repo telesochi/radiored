@@ -528,10 +528,20 @@
     "name" : "Шатунов Юрий",
     "stream" : "https://stream05.pcradio.ru/Jurij_Shatunov-med",
     "picture" : "https://telesochi.github.io/radiored/logo/shatunov.jpg"
+  },
+
+
+{
+    "name" : "Радио Приднестровье 1\nТирасполь 104.1FM",
+    "stream" : "https://radio.pgtrk.com:8443/stream",
+    "picture" : "https://telesochi.github.io/radiored/logo/rp1.webp"
+  },
+
+{
+    "name" : "Радио Приднестровье 1+\nТирасполь 104.1FM",
+    "stream" : "https://radio.pgtrk.com:8443/radio2_192",
+    "picture" : "https://telesochi.github.io/radiored/logo/rp2.webp"
   }
-
-
-
 
 
 ]
