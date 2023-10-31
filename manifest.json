@@ -1,7 +1,7 @@
 {
- "name": "Красное Радио",
- "short_name": "Красное Радио",
- "start_url": "https://telesochi.github.io/radiored/index.html",
+ "name": "Главное Радио",
+ "short_name": "Главное Радио",
+ "start_url": "https://glavnoeradio.ru/index.html",
  "description": "Слушать основные радиоканалы России онлайн",
  "display": "standalone",
  "orientation": "portrait",
@@ -9,20 +9,20 @@
  "background_color": "#282829",
  "icons": [
   {
-   "src": "https://telesochi.github.io/radiored/images/150x150.png",
+   "src": "https://glavnoeradio.ru/images/150x150.png",
    "sizes": "150x150",
    "type": "image/png"
   },
   {
-   "src": "https://telesochi.github.io/radiored/images/favicon.ico",
+   "src": "https://glavnoeradio.ru/images/favicon.ico",
    "sizes": "48x48",
    "type": "image/vnd.microsoft.icon"
   },
   {
-   "src": "https://telesochi.github.io/radiored/images/512x512.png",
+   "src": "https://glavnoeradio.ru/images/512x512.png",
    "sizes": "512x512",
    "type": "image/png"
   }
  ],
- "scope": "https://telesochi.github.io/radiored/index.html"
+ "scope": "https://glavnoeradio.ru/index.html"
 }

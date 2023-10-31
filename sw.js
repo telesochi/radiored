@@ -1,5 +1,5 @@
 self.addEventListener('install', function(event) {
-const indexPage = new Request('https://telesochi.github.io/radiored/index.html');
+const indexPage = new Request('https://glavnoeradio.ru/index.html');
 event.waitUntil(
 fetch(indexPage).then(function(response) {
 return caches.open('pwabuilder-offline').then(function(cache) {
