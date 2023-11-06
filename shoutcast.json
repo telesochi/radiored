@@ -119,6 +119,14 @@
   },
 
 
+{
+    "name" : "Monte Carlo",
+    "stream" : "http://misato.ru-hoster.com:8045/rmc-nhd",
+    "picture" : "https://telesochi.github.io/radiored/logo/montecarlo.webp"
+  },
+
+
+
   {
     "name" : "Донат ФМ - СССР",
     "stream" : "https://c6.radioboss.fm:18098/stream",
