@@ -541,7 +541,15 @@
     "name" : "Радио Приднестровье 1+\nТирасполь 104.1FM",
     "stream" : "https://radio.pgtrk.com:8443/radio2_192",
     "picture" : "https://telesochi.github.io/radiored/logo/rp2.webp"
+  },
+
+{
+    "name" : "UVB-76\nРадио судного дня",
+    "stream" : "https://5.restream.one/620_0",
+    "picture" : "https://telesochi.github.io/radiored/logo/uvb-76.webp"
   }
+
+
 
 
 ]
