@@ -106,6 +106,20 @@
   },
 
   {
+    "name" : "Детские сказки",
+    "stream" : "https://live.radiospinner.com/dtskskzki-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/detskieskazki.jpg"
+  },
+
+
+  {
+    "name" : "Boris Brejcha - DFM music",
+    "stream" : "https://live.radiospinner.com/brsbrjch-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/boris-brejcha.jpg"
+  },
+
+
+  {
     "name" : "Донат ФМ - СССР",
     "stream" : "https://c6.radioboss.fm:18098/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/98.png"
@@ -135,11 +149,7 @@
     "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_club_128.mp3",
     "picture" : "https://telesochi.github.io/radiored/logo/zaycev-club.jpg"
   },
-  {
-    "name" : "Детские сказки",
-    "stream" : "https://live.radiospinner.com/dtskskzki-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/detskieskazki.jpg"
-  },
+
   {
     "name" : "Радио Дача",
     "stream" : "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64",
