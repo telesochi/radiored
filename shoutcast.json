@@ -36,7 +36,7 @@
     "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
     "picture" : "https://telesochi.github.io/radiored/logo/iz.png"
   },
-{
+  {
     "name" : "Россия 24\nЗвуковой эфир телеканала",
     "stream" : "https://vgtrkregion.cdnvideo.ru/vgtrk/kazan/russia24sd/playlist.m3u8",
     "picture" : "https://telesochi.github.io/radiored/logo/rossia24.webp"
@@ -52,16 +52,11 @@
     "stream" : "https://fed.fmplay.ru:8000/kultura-32.aac",
     "picture" : "https://fmplay.ru/img/kultura.webp"
   },
-
-
- {
+  {
     "name" : "ТОР 100 RU (256 kbps)",
     "stream" : "https://ic1.radiosignal.one/top100",
     "picture" : "https://telesochi.github.io/radiored/logo/top100.jpg"
   },
-
-
-
 
   {
     "name" : "Новое Радио",
@@ -72,6 +67,11 @@
     "name" : "Радио Республика\nДонецк 99.0",
     "stream" : "http://212.66.37.40:8000/radiorepublic",
     "picture" : "https://telesochi.github.io/radiored/logo/respublika.jpg"
+  },
+  {
+    "name" : "Costa Del Mar",
+    "stream" : "https://live.radiospinner.com/costdemar-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/costadelmar.jpg"
   },
   {
     "name" : "Ретро ХИТ",
