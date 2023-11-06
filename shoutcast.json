@@ -136,6 +136,11 @@
     "picture" : "https://telesochi.github.io/radiored/logo/zaycev-club.jpg"
   },
   {
+    "name" : "Детские сказки",
+    "stream" : "https://live.radiospinner.com/dtskskzki-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/detskieskazki.jpg"
+  },
+  {
     "name" : "Радио Дача",
     "stream" : "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64",
     "picture" : "https://telesochi.github.io/radiored/logo/rd.png"
