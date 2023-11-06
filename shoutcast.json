@@ -121,7 +121,7 @@
 
 {
     "name" : "Monte Carlo",
-    "stream" : "http://misato.ru-hoster.com:8045/rmc-nhd",
+    "stream" : "https://icecast227.ptspb.ru:8443/monte",
     "picture" : "https://telesochi.github.io/radiored/logo/montecarlo.webp"
   },
 
