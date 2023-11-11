@@ -1,5 +1,44 @@
 [
-
+{
+    "name" : "80",
+    "stream" : "https://live.radiospinner.com/80hs-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/80.jpg"
+  },
+{
+    "name" : "70",
+    "stream" : "https://live.radiospinner.com/70hs-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/70.jpg"
+  },
+{
+    "name" : "ELECTRO",
+    "stream" : "https://live.radiospinner.com/nu-disco-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/electro.jpg"
+  },
+{
+    "name" : "CHILL",
+    "stream" : "https://live.radiospinner.com/chillout-dreams-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/chill.jpg"
+  },
+{
+    "name" : "USSR HIT",
+    "stream" : "https://myradio24.org/ussr",
+    "picture" : "https://telesochi.github.io/radiored/logo/ussrhit.jpg"
+  },
+{
+    "name" : "ITALO DISCO",
+    "stream" : "https://ssl-1.radiohost.pl:8018/stream",
+    "picture" : "https://telesochi.github.io/radiored/logo/italodisco.jpg"
+  },
+{
+    "name" : "EURO POP",
+    "stream" : "https://live.radiospinner.com/clsscrdsc-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/europop.jpg"
+  },
+{
+    "name" : "RUSSIAN ROCK",
+    "stream" : "https://live.radiospinner.com/rsskjrk-64",
+    "picture" : "https://telesochi.github.io/radiored/logo/russianrock.jpg"
+  },
 
   {
     "name" : "Вести FM\nПрямой эфир (32 kbps)",
