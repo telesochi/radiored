@@ -501,16 +501,7 @@
     "stream" : "https://myradio24.org/1987",
     "picture" : "https://telesochi.github.io/radiored/logo/spacesynth.jpg"
   },
-  {
-    "name" : "SyntheticFM",
-    "stream" : "https://mediaserv38.live-streams.nl:18030/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/synthetic-fm.jpg"
-  },
-  {
-    "name" : "SyntheticFM 2",
-    "stream" : "https://mediaserv38.live-streams.nl:18040/live",
-    "picture" : "https://telesochi.github.io/radiored/logo/synthetic2-fm.png"
-  },
+
   {
   "name" : "True Color Radio",
   "stream" : "http://online.truecolorsradio.com:9000/45329",
@@ -536,46 +527,20 @@
     "stream" : "https://listen7.myradio24.com/alexx333",
     "picture" : "https://telesochi.github.io/radiored/logo/638.webp"
   },
-  {
-    "name" : "RussianRadio EU",
-    "stream" : "https://s35.derstream.net/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/russianradio-eu.jpg"
-  },
+
   {
     "name" : "Enigma FM",
     "stream" : "https://myradio24.org/8226",
     "picture" : "https://telesochi.github.io/radiored/logo/enigmatic.png"
   },
-  {
-    "name" : "Sandra",
-    "stream" : "https://stream05.pcradio.ru/Sandra-med",
-    "picture" : "https://telesochi.github.io/radiored/logo/sandra.jpg"
-  },
-  {
-    "name" : "a-ha",
-    "stream" : "https://stream05.pcradio.ru/aha-med",
-    "picture" : "https://telesochi.github.io/radiored/logo/a-ha.jpg"
-  },
-  {
-    "name" : "Pet Shop Boys",
-    "stream" : "https://stream01.pcradio.ru/pet_shop_boys-med",
-    "picture" : "https://telesochi.github.io/radiored/logo/petshopboys.jpg"
-  },
-  {
-    "name" : "Король и Шут",
-    "stream" : "https://stream01.pcradio.ru/Korol_i_Shut-med",
-    "picture" : "https://telesochi.github.io/radiored/logo/korol.jpg"
-  },
+
+
   {
     "name" : "Волгоград 24\nПрямой эфир",
     "stream" : "https://s0.radioheart.ru:8000/RH59163",
     "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
   },
-  {
-    "name" : "Приключения Электроников",
-    "stream" : "https://stream05.pcradio.ru/priklyuchenia_elektronikov-med",
-    "picture" : "https://telesochi.github.io/radiored/logo/electronics.png"
-  },
+
   {
     "name" : "Fox News",
     "stream" : "http://tunein.streamguys1.com:80/foxnews",
@@ -585,11 +550,6 @@
     "name" : "Вести FM\nКубань",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/vesti_kuban",
     "picture" : "https://fmplay.ru/img/vesti.webp"
-  },
-{
-    "name" : "Шатунов Юрий",
-    "stream" : "https://stream05.pcradio.ru/Jurij_Shatunov-med",
-    "picture" : "https://telesochi.github.io/radiored/logo/shatunov.jpg"
   },
 
 
