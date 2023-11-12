@@ -2,125 +2,125 @@
 {
     "name" : "80",
     "stream" : "https://live.radiospinner.com/80hs-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/80.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/80.jpg"
   },
 {
     "name" : "70",
     "stream" : "https://live.radiospinner.com/70hs-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/70.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/70.jpg"
   },
 {
     "name" : "ELECTRO",
     "stream" : "https://live.radiospinner.com/nu-disco-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/electro.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/electro.jpg"
   },
 {
     "name" : "CHILL",
     "stream" : "https://live.radiospinner.com/chillout-dreams-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/chill.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/chill.jpg"
   },
 {
     "name" : "USSR HIT",
     "stream" : "https://myradio24.org/ussr",
-    "picture" : "https://telesochi.github.io/radiored/logo/ussrhit.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/ussrhit.jpg"
   },
 {
     "name" : "ITALO DISCO",
-    "stream" : "https://ssl-1.radiohost.pl:8018/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/italodisco.jpg"
+    "stream" : "http://s0.radiohost.pl:8018/Italo4you",
+    "picture" : "https://glavnoeradio.ru/2610/logo/italodisco.jpg"
   },
 {
     "name" : "EURO POP",
     "stream" : "https://live.radiospinner.com/clsscrdsc-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/europop.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/europop.jpg"
   },
 {
     "name" : "RUSSIAN ROCK",
     "stream" : "https://live.radiospinner.com/rsskjrk-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/russianrock.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/russianrock.jpg"
   },
 
   {
     "name" : "Вести FM\nПрямой эфир (32 kbps)",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
-    "picture" : "https://fmplay.ru/img/vesti.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/vestifm.webp"
   },
   {
     "name" : "Маяк\nПрямой эфир (64 kbps)",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
-    "picture" : "https://fmplay.ru/img/mayak.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/mayak.webp"
   },
   {
     "name" : "Комсомольская правда\nПрямой эфир (32 kbps)",
     "stream" : "https://kpradio.hostingradio.ru:8000/64",
-    "picture" : "https://fmplay.ru/img/kpravda.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/kpravda.webp"
   },
   {
     "name" : "Club Channel",
     "stream" : "https://graalradio.com:8128/club160",
-    "picture" : "https://telesochi.github.io/radiored/logo/club.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/club.jpg"
   },
   {
     "name" : "СоловьёвFM\nПрямой эфир (32 kbps)",
     "stream" : "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
-    "picture" : "https://telesochi.github.io/radiored/logo/solovievfm.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/solovievfm.jpg"
   },
   {
     "name" : "Звезда\nПрямой эфир (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/zvezda-32.aac",
-    "picture" : "https://fmplay.ru/img/zvezda.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/zvezda.png"
   },
   {
     "name" : "Известия ФМ\nЗвуковой эфир телеканала",
     "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
-    "picture" : "https://telesochi.github.io/radiored/logo/iz.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/iz.png"
   },
   {
     "name" : "Россия 24\nЗвуковой эфир телеканала",
     "stream" : "https://vgtrkregion.cdnvideo.ru/vgtrk/kazan/russia24sd/playlist.m3u8",
-    "picture" : "https://telesochi.github.io/radiored/logo/rossia24.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/rossia24.webp"
   },
 
   {
     "name" : "Радио России\nПрямой эфир",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
-    "picture" : "https://fmplay.ru/img/rrossii.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/rrossii.webp"
   },
   {
     "name" : "Радио Культура\nПрямой эфир (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/kultura-32.aac",
-    "picture" : "https://fmplay.ru/img/kultura.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/kultura.webp"
   },
   {
     "name" : "ТОР 100 RU (256 kbps)",
     "stream" : "https://ic1.radiosignal.one/top100",
-    "picture" : "https://telesochi.github.io/radiored/logo/top100.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/top100.jpg"
   },
 
   {
     "name" : "Новое Радио",
     "stream" : "https://stream.newradio.ru/novoe96.aacp",
-    "picture" : "https://telesochi.github.io/radiored/logo/novoe.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/novoe.png"
   },
   {
     "name" : "Радио Республика\nДонецк 99.0",
     "stream" : "http://212.66.37.40:8000/radiorepublic",
-    "picture" : "https://telesochi.github.io/radiored/logo/respublika.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/respublika.jpg"
   },
   {
     "name" : "Costa Del Mar",
     "stream" : "https://live.radiospinner.com/costdemar-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/costadelmar.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/costadelmar.jpg"
   },
   {
     "name" : "Ретро ХИТ",
     "stream" : "https://retro.amgradio.ru/Retro",
-    "picture" : "https://radiopotok.mobi/f/station/512/1570.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/retrohit.jpg"
   },
   {
     "name" : "Europa Plus",
     "stream" : "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "picture" : "https://fmplay.ru/img/europaplus.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/europaplus.webp"
   },
 
 
@@ -128,40 +128,40 @@
 {
     "name" : "Дискотека 80-90",
     "stream" : "https://myradio24.org/dance80",
-    "picture" : "https://telesochi.github.io/radiored/logo/80-90.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/80-90.jpg"
   },
 
 
 {
     "name" : "Зайцев DISCO (128 kbps)",
     "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_128.mp3",
-    "picture" : "https://telesochi.github.io/radiored/logo/zaycev.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/zaycev.jpg"
   },
 
   {
     "name" : "Детский ХИТ",
     "stream" : "https://deti.amgradio.ru/Deti",
-    "picture" : "https://radiopotok.mobi/f/station_webp/152/1395.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/1395.webp"
   },
 
   {
     "name" : "Детские сказки",
     "stream" : "https://live.radiospinner.com/dtskskzki-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/detskieskazki.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/detskieskazki.jpg"
   },
 
 
   {
     "name" : "Boris Brejcha - DFM music",
     "stream" : "https://live.radiospinner.com/brsbrjch-64",
-    "picture" : "https://telesochi.github.io/radiored/logo/boris-brejcha.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/boris-brejcha.jpg"
   },
 
 
 {
     "name" : "Monte Carlo",
     "stream" : "https://icecast227.ptspb.ru:8443/monte",
-    "picture" : "https://telesochi.github.io/radiored/logo/montecarlo.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/montecarlo.webp"
   },
 
 
@@ -194,97 +194,97 @@
 {
     "name" : "Зайцев CLUB (128 kbps)",
     "stream" : "https://zaycevfm.cdnvideo.ru/ZaycevFM_club_128.mp3",
-    "picture" : "https://telesochi.github.io/radiored/logo/zaycev-club.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/zaycev-club.jpg"
   },
 
   {
     "name" : "Радио Дача",
     "stream" : "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64",
-    "picture" : "https://telesochi.github.io/radiored/logo/rd.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/rd.png"
   },
   {
     "name" : "Песня Года",
     "stream" : "https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_2_pesnyagoda_56",
-    "picture" : "https://telesochi.github.io/radiored/logo/pg.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/pg.jpg"
   },
   {
     "name" : "Наше Радио (128 kbps)",
     "stream" : "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
-    "picture" : "https://fmplay.ru/img/nashe.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/nashe.webp"
   },
   {
     "name" : "Москва FM 92.0FM",
     "stream" : "http://icecast.vgtrk.cdnvideo.ru/moscowfm128",
-    "picture" : "https://telesochi.github.io/radiored/logo/moskva_FM_92_0.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/moskva_FM_92_0.png"
   },
 
 
   {
     "name" : "SOUND PARK DEEP",
     "stream" : "https://relay3.radiotoolkit.com/spdeep",
-    "picture" : "https://telesochi.github.io/radiored/logo/soundparkdeep.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/soundparkdeep.jpg"
   },
 
 {
     "name" : "CHILL Камчатка",
     "stream" : "http://radio.kamchatkalive.ru:8100/chillout",
-    "picture" : "https://telesochi.github.io/radiored/logo/chillout-kamchatka.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/chillout-kamchatka.png"
   },
 
   {
     "name" : "Говорит Москва 94.8FM\nонлайн (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/gmoskva-32.aac",
-    "picture" : "https://telesochi.github.io/radiored/logo/govorit_moskva94_8.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/govorit_moskva94_8.png"
   },
   {
     "name" : "Ultra\n(256 kbps)",
     "stream" : "http://nashe1.hostingradio.ru:80/ultra-256",
-    "picture" : "https://telesochi.github.io/radiored/logo/ultra.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/ultra.png"
   },
   {
     "name" : "Capital FM 105.3\nhttp://capitalfm.moscow/",
     "stream" : "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
-    "picture" : "https://telesochi.github.io/radiored/logo/capital_fm.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/capital_fm.jpg"
   },
 
   {
     "name" : "АвтоРадио",
     "stream" : "http://ic7.101.ru:8000/v3_1",
-    "picture" : "https://telesochi.github.io/radiored/logo/avtoradio.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/avtoradio.png"
   },
   {
     "name" : "87,5 BUSINESS FM\nПервое деловое радио",
     "stream" : "https://bfm.hostingradio.ru:9075/fm",
-    "picture" : "https://telesochi.github.io/radiored/logo/bfm.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/bfm.webp"
   },
   {
     "name" : "DFM\nrussian dance",
     "stream" : "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
-    "picture" : "https://telesochi.github.io/radiored/logo/dfm.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/dfm.jpg"
   },
 
 
   {
     "name" : "Кекс FM Rus",
     "stream" : "http://emg02.hostingradio.ru/keksfm64.aac",
-    "picture" : "https://telesochi.github.io/radiored/logo/keks.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/keks.webp"
   },
   {
     "name" : "Коммерсантъ FM\nрадио новостей",
     "stream" : "https://fed.fmplay.ru:8000/kommersant-32.aac",
-    "picture" : "https://telesochi.github.io/radiored/logo/kommersant.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/kommersant.webp"
   },
 
   {
     "name" : "Русское Радио (128 kbps)",
     "stream" : "https://rusradio.hostingradio.ru/rusradio128.mp3",
-    "picture" : "https://fmplay.ru/img/rusradio.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/rusradio.webp"
   },
 
 {
     "name" : "Дорожное Радио (64 kbps)",
     "stream" : "https://dorognoe.hostingradio.ru/dorognoe_acc",
-    "picture" : "https://telesochi.github.io/radiored/logo/dorojnoe.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/dorojnoe.png"
   },
 
 
@@ -292,7 +292,7 @@
 {
     "name" : "Дорожное Танцпол (128 kbps)",
     "stream" : "https://dorognoe.hostingradio.ru/dorognoe1945.mp3",
-    "picture" : "https://telesochi.github.io/radiored/logo/drdance.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/drdance.png"
   },
 
 
@@ -301,277 +301,266 @@
   {
     "name" : "Sputnik\nПрямой эфир (32 kbps)",
     "stream" : "https://fed.fmplay.ru:8000/sputnik-32.aac",
-    "picture" : "https://fmplay.ru/img/sputnik.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/sputnik.webp"
   },
   {
     "name" : "Радио Романтика",
     "stream" : "https://ic4.101.ru:8000/s30",
-    "picture" : "https://telesochi.github.io/radiored/logo/radio-romantika.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/radio-romantika.png"
   },
   {
     "name" : "Радио МИР\nПрямой эфир (128 kbps)",
     "stream" : "https://icecast-mirtv.cdnvideo.ru/radio_mir128",
-    "picture" : "https://fmplay.ru/img/mir.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/mir.webp"
   },
   {
     "name" : "Первое радио",
     "stream" : "https://stream.pervoe.fm:8443/",
-    "picture" : "https://telesochi.github.io/radiored/logo/pervoe.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/pervoe.jpg"
   },
   {
     "name" : "Победа\n106.9 FM Луганск",
     "stream" : "https://radio.gtrklnr.ru:8443/victori.fm",
-    "picture" : "https://telesochi.github.io/radiored/logo/radio-pobeda-lnr.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/radio-pobeda-lnr.jpg"
   },
   {
     "name" : "СВОЁ РАДИО\n103.6 FM Луганск",
     "stream" : "https://radio.gtrklnr.ru:8443/your.fm",
-    "picture" : "https://telesochi.github.io/radiored/logo/svoyo-radio.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/svoyo-radio.png"
   },
   {
     "name" : "Спутник в Крыму\nПрямой эфир",
     "stream" : "https://icecast-rian.cdnvideo.ru/voicesym",
-    "picture" : "https://telesochi.github.io/radiored/logo/sputnik-v-kryimu.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/sputnik-v-kryimu.png"
   },
   {
     "name" : "Классное Радио",
     "stream" : "https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3",
-    "picture" : "https://telesochi.github.io/radiored/logo/klassnoeradio.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/klassnoeradio.jpg"
   },
   {
   "name" : "Радио Фантастики (32 kbps)",
   "stream" : "http://fantasyradioru.no-ip.biz:8008/;stream.mp3",
-  "picture" : "https://telesochi.github.io/radiored/logo/fantastika.jpg"
+  "picture" : "https://glavnoeradio.ru/2610/logo/fantastika.jpg"
   },
   {
   "name" : "Модель для сборки",
   "stream" : "http://mds-station.com:8000/mds",
-  "picture" : "https://telesochi.github.io/radiored/logo/mds.png"
+  "picture" : "https://glavnoeradio.ru/2610/logo/mds.png"
   },
   {
     "name" : "Искатель",
     "stream" : "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
-    "picture" : "https://fmplay.ru/img/iskatel.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/iskatel.webp"
   },
   {
     "name" : "Deep FM",
     "stream" : "https://deep.amgradio.ru/DeepFM",
-    "picture" : "https://telesochi.github.io/radiored/logo/deep-fm.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/deep-fm.jpg"
   },
   {
     "name" : "Спокойное Радио",
     "stream" : "https://myradio24.org/6262",
-    "picture" : "https://telesochi.github.io/radiored/logo/nocover.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/nocover.jpg"
   },
+{
+    "name" : "Rock Classic 80S",
+    "stream" : "https://myradio24.org/6262",
+    "picture" : "https://glavnoeradio.ru/2610/logo/rock80.jpg"
+  },
+
+
   {
     "name" : "Chocolate FM",
     "stream" : "https://choco.hostingradio.ru:10010/fm",
-    "picture" : "https://fmplay.ru/img/chocolate.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/chocolate.webp"
   },
   {
     "name" : "Новая Волна",
     "stream" : "https://s01.radio-tochka.com:4845/radio",
-    "picture" : "https://telesochi.github.io/radiored/logo/novaja-volna.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/novaja-volna.png"
   },
 {
     "name" : "Макс FM\nСочи (128 kbps)",
     "stream" : "https://maksfm.hostingradio.ru/maksfm128.mp3",
-    "picture" : "https://telesochi.github.io/radiored/logo/maks-fm.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/maks-fm.jpg"
   },
   {
     "name" : "Татар Радиосы",
     "stream" : "https://stream.tatarradio.ru/kazan_128.aac",
-    "picture" : "https://telesochi.github.io/radiored/logo/tatar-radiosyi.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/tatar-radiosyi.webp"
   },
   {
     "name" : "Русский ХИТ",
     "stream" : "https://rp.amgradio.ru/RuWave48",
-    "picture" : "https://radiopotok.mobi/f/station_webp/152/257.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/257.webp"
   },
   {
     "name" : "Радио Победы\nПрямой эфир",
     "stream" : "http://178.46.155.73:8000/rp",
-    "picture" : "https://telesochi.github.io/radiored/logo/pobeda.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/pobeda.png"
   },
   {
     "name" : "Радиола",
     "stream" : "https://radiola.hostingradio.ru/radiola_sam_64.aac",
-    "picture" : "https://fmplay.ru/img/radiolaekb.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/radiolasrt.webp"
   },
   {
   "name" : "Советская эстрада",
   "stream" : "https://evcast.mediacp.eu:2075/stream",
-  "picture" : "https://telesochi.github.io/radiored/logo/sovetestrada.jpg"
+  "picture" : "https://glavnoeradio.ru/2610/logo/sovetestrada.jpg"
   },
   {
     "name" : "Radio Nostalgia",
     "stream" : "https://c18.radioboss.fm:8016/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/nostalgia.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/nostalgia.jpg"
   },
-  {
-    "name" : "Дискотека 80/90",
-    "stream" : "https://myradio24.org/dance80?123",
-    "picture" : "https://telesochi.github.io/radiored/logo/diskoteka80-90.jpg"
-  },
+
   {
     "name" : "Старое Доброе Радио\nПрямой эфир",
     "stream" : "http://91.189.162.134:8008/stream.aac",
-    "picture" : "https://telesochi.github.io/radiored/logo/staroe-dobroe-radio.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/staroe-dobroe-radio.jpg"
   },
   {
     "name" : "Italo4You",
     "stream" : "https://ssl-1.radiohost.pl:8018/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/italo4you.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/italo4you.jpg"
   },
   {
     "name" : "1000 Italo Hits",
     "stream" : "https://1000italohits.stream.laut.fm/1000italohits",
-    "picture" : "https://telesochi.github.io/radiored/logo/1000italohits.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/1000italohits.jpg"
   },
   {
     "name" : "Italo New Generation",
     "stream" : "https://cast1.torontocast.com:1310/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/new-generation.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/new-generation.jpg"
   },
 
   {
     "name" : "RMI Italo Disco Classic",
     "stream" : "https://cast1.torontocast.com:1165/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/classic.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/classic.png"
   },
   {
     "name" : "RMI Euro Disco",
     "stream" : "https://cast1.torontocast.com:1335/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/euro-disco.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/euro-disco.png"
   },
   {
     "name" : "Ретро ФМ\nПрямой эфир (256 kbps)",
     "stream" : "https://retro.hostingradio.ru:8043/retro256.mp3",
-    "picture" : "https://fmplay.ru/img/retro.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/retro.webp"
   },
   {
     "name" : "Радио ЖиZнь 9Z.ZFM",
     "stream" : "https://stream.zhizn-fm.ru:8443/life",
-    "picture" : "https://telesochi.github.io/radiored/logo/zizn.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/zizn.webp"
   },
 
 
   {
     "name" : "VoltageFM",
     "stream" : "https://radio.voltagefm.ru:9009/VOLTAGEFM",
-    "picture" : "https://telesochi.github.io/radiored/logo/voltage-fm.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/voltage-fm.png"
   },
   {
   "name" : "VoltageFM CCCP",
   "stream" : "https://radio.voltagefm.ru:9009/VoltageUSSR_64_aac",
-  "picture" : "https://telesochi.github.io/radiored/logo/voltage-ussr.jpg"
+  "picture" : "https://glavnoeradio.ru/2610/logo/voltage-ussr.jpg"
   },
   {
   "name" : "VoltageFM Rock",
   "stream" : "https://radio.voltagefm.ru:9009/VoltageROCK_64_aac",
-  "picture" : "https://telesochi.github.io/radiored/logo/voltage-rock.jpg"
+  "picture" : "https://glavnoeradio.ru/2610/logo/voltage-rock.jpg"
   },
   {
     "name" : "Радио Шансон\nПрямой эфир",
     "stream" : "https://fed.fmplay.ru:8000/shanson-32.aac",
-    "picture" : "https://fmplay.ru/img/shanson.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/shanson.webp"
   },
   {
     "name" : "Маруся ФМ\nПрямой эфир",
     "stream" : "https://fed.fmplay.ru:8000/marusya-32.aac",
-    "picture" : "https://fmplay.ru/img/marusya.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/marusya.webp"
   },
   {
     "name" : "Хитрое",
     "stream" : "https://stream.hitroe.com:8443/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/hitroe.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/hitroe.jpg"
   },
   {
     "name" : "Радио СССР",
     "stream" : "https://myradio24.org/ussr",
-    "picture" : "https://telesochi.github.io/radiored/logo/radio-ussr.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/radio-ussr.jpg"
   },
  {
     "name" : "Radio80S",
     "stream" : "http://stream.laut.fm/80s-radio",
-    "picture" : "https://telesochi.github.io/radiored/logo/radio80s.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/radio80s.jpg"
   },
   {
     "name" : "SpaceSynth",
     "stream" : "https://myradio24.org/1987",
-    "picture" : "https://telesochi.github.io/radiored/logo/spacesynth.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/spacesynth.jpg"
   },
 
   {
   "name" : "True Color Radio",
   "stream" : "http://online.truecolorsradio.com:9000/45329",
-  "picture" : "https://telesochi.github.io/radiored/logo/truecolor.webp"
+  "picture" : "https://glavnoeradio.ru/2610/logo/truecolor.webp"
   },
-  {
-  "name" : "Чеширское радио",
-  "stream" : "https://myradio24.org/cheshire",
-  "picture" : "https://telesochi.github.io/radiored/logo/cheshirskoe.jpg"
-  },
+ 
   {
     "name" : "Лихие 90-е",
     "stream" : "https://rr-90.hostingradio.ru/rr9096.aacp",
-    "picture" : "https://telesochi.github.io/radiored/logo/90.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/90.jpg"
   },
   {
     "name" : "Ретро Gold",
     "stream" : "https://live.radiospinner.com/rtrgld-64",
-    "picture" : "https://radiospinner.com/images/stations/6110bc53540e1.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/retro-gold.jpg"
   },
   {
     "name" : "Ностальжи Россия",
     "stream" : "https://listen7.myradio24.com/alexx333",
-    "picture" : "https://telesochi.github.io/radiored/logo/638.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/638.webp"
   },
 
   {
     "name" : "Enigma FM",
     "stream" : "https://myradio24.org/8226",
-    "picture" : "https://telesochi.github.io/radiored/logo/enigmatic.png"
+    "picture" : "https://glavnoeradio.ru/2610/logo/enigmatic.png"
   },
 
 
   {
     "name" : "Волгоград 24\nПрямой эфир",
     "stream" : "https://s0.radioheart.ru:8000/RH59163",
-    "picture" : "https://telesochi.github.io/radiored/logo/volgograd24.jpg"
-  },
-
-  {
-    "name" : "Fox News",
-    "stream" : "http://tunein.streamguys1.com:80/foxnews",
-    "picture" : "https://telesochi.github.io/radiored/logo/fox-news.jpg"
+    "picture" : "https://glavnoeradio.ru/2610/logo/volgograd24.jpg"
   },
   {
     "name" : "Вести FM\nКубань",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/vesti_kuban",
-    "picture" : "https://fmplay.ru/img/vesti.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/vestifm.webp"
   },
-
-
-{
-    "name" : "Радио Приднестровье 1\nТирасполь 104.1FM",
-    "stream" : "https://radio.pgtrk.com:8443/stream",
-    "picture" : "https://telesochi.github.io/radiored/logo/rp1.webp"
-  },
-
-{
-    "name" : "Радио Приднестровье 1+\nТирасполь 104.1FM",
-    "stream" : "https://radio.pgtrk.com:8443/radio2_192",
-    "picture" : "https://telesochi.github.io/radiored/logo/rp2.webp"
+ {
+    "name" : "Радио Краснодар",
+    "stream" : "https://icecast-radiokrasnodar.cdnvideo.ru/radiokrasnodar_1_mp3_128",
+    "picture" : "https://glavnoeradio.ru/2610/logo/radiokrasnodar.webp"
   },
 
 {
     "name" : "UVB-76\nРадио судного дня",
     "stream" : "https://5.restream.one/620_0",
-    "picture" : "https://telesochi.github.io/radiored/logo/uvb-76.webp"
+    "picture" : "https://glavnoeradio.ru/2610/logo/uvb-76.webp"
+  },
+
+  {
+    "name" : "Fox News",
+    "stream" : "http://tunein.streamguys1.com:80/foxnews",
+    "picture" : "https://glavnoeradio.ru/2610/logo/fox-news.jpg"
   }
-
-
 
 
 ]
