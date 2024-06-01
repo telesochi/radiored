@@ -1,0 +1,28 @@
+{
+ "name": "Радио СССР",
+ "short_name": "Радио СССР",
+ "start_url": "https://live.glavnoeradio.ru/index.html",
+ "description": "Слушаем Радио Советского Союза",
+ "display": "standalone",
+ "orientation": "portrait",
+ "theme_color": "#282829",
+ "background_color": "#282829",
+ "icons": [
+  {
+   "src": "https://live.glavnoeradio.ru/images/150x150.png",
+   "sizes": "150x150",
+   "type": "image/png"
+  },
+  {
+   "src": "https://live.glavnoeradio.ru/images/favicon.ico",
+   "sizes": "48x48",
+   "type": "image/vnd.microsoft.icon"
+  },
+  {
+   "src": "https://live.glavnoeradio.ru/images/512x512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "scope": "https://live.glavnoeradio.ru/index.html"
+}
